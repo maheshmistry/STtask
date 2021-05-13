@@ -31,6 +31,8 @@ The repo contains the Coding task from Statista. The task is done in Symfony fra
 #### Requirement: 
 		php-cli, composer
 #### Steps:
+#### change working directory
+		cd app/STtask
 #### Start the server:
 		php bin/console server:start
 #### Open Browser to see FizzBuzz Output 
