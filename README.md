@@ -1,4 +1,4 @@
-# STtask
+# STtask - Mahesh Mistry
 
 The repo contains the Coding task from Statista. The task is done in Symfony framework. The application is in /app/STtask folder. 
 
