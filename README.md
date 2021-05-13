@@ -4,7 +4,7 @@ The repo contains the Coding task from Statista. The task is done in Symfony fra
 
 ## Running the application:
 
-Requirements:
+#### Requirements:
 	
 	docker
 
@@ -35,7 +35,7 @@ Requirements:
 		php bin/console server:start
 #### Open Browser to see FizzBuzz Output 
 #### Run the Unit Test:
-		execute following command to see results of Unit Test
-		php  bin/phpunit
+		// execute following command to see results of Unit Test
+		php bin/phpunit
 #### Stop the server:
 		php bin/console server:stop
