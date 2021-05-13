@@ -13,7 +13,7 @@ The repo contains the Coding task from Statista. The task is done in Symfony fra
 #### Create Image
 		docker build -t sttask-mahesh .
 #### Run Container 
-		docker run --rm -dp 888:8800 --name=STtaskMahesh sttask-mahesh
+		docker run --rm -dp 8000:8800 --name=STtaskMahesh sttask-mahesh
 #### Open Browser (http://localhost:8000/) to see FizzBuzz Output
 #### Unit test
 		docker exec -it STtaskMahesh bash
